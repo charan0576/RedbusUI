@@ -1,0 +1,7 @@
+{
+  "name": "Copy of redBus Clone - Premium Travel Experience",
+  "description": "A high-fidelity React application replicating the redBus user experience with intelligent AI travel suggestions, advanced bus searching, and seat selection.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
